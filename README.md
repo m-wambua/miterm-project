@@ -22,4 +22,4 @@ after which an appropriate response will be given.
 
 
 
-
+finally the model gives the name and the likelyhood of getting a heart attack and gives a warning on severe it can get
